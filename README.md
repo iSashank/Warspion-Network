@@ -9,9 +9,6 @@ Minigames servers offer extremely fun content for players of all ages to enjoy o
 
 We aim for a fun and enjoyable player experience, with lag-free servers
 
-## Join us on Discord
-![Warspion Network](https://discordapp.com/api/guilds/606433088398163978/widget.png?style=banner3)
-
 ## Server Information
 With a wide range of Gamemodes, starting from Minigames to other ones like Survival, Factions, Prison and SkyBlock, Warspion Network provides a unique gameplay to the players searching for a welcoming community where they can build friendships and prove their skills in PvP, Strategy and Building, as those skills are essential for any of the gamemodes the network offers.
 
